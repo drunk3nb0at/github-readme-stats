@@ -462,6 +462,13 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  dragon_fruit: {
+    title_color: "89DDFF",
+    text_color: "89DDFF",
+    icon_color: "dc589a",
+    border_color: "F2BAD1",
+    bg_color: "212121",
+  },
 };
 
 export default themes;
